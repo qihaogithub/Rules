@@ -6,4 +6,6 @@ IPCIDR,43.129.0.0/16,no-resolve
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,uueai.com
+
 IP-CIDR,10.130.100.5
+DOMAIN-SUFFIX,admin-xjjj-co
