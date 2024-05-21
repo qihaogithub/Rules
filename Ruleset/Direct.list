@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,uueai.com
 
 # 叫叫管理后台
-# IPCIDR,10.130.100.5,no-resolve
 DOMAIN-KEYWORD,jojo
 DOMAIN-SUFFIX,admin-xjjj-co
 DOMAIN-SUFFIX,t.xjjj.co/
