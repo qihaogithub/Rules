@@ -2,6 +2,7 @@
 # 数量：6条
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,aistudio
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,openai.com
