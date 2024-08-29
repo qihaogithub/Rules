@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,anthropic.com
 
+DOMAIN-KEYWORD,Gemini
+DOMAIN-SUFFIX,gemini.google.com
